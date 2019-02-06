@@ -13,3 +13,7 @@ python email_scrape.py domain-name
   * Install PhantomJS : `npm -g install phantomjs`
 
 ### Please be conscientious!
+
+## Update 2019
+
+This is a fork of Rohit-jamuar original Email-Scraper updated to python 3.7
